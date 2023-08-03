@@ -10,3 +10,5 @@
 
 - 🌱 제가 요새 공부하고 있는 내용입니다
 - ⚡ Fun fact: ...
+
+  ![snake gif](https://github.com/hhk1364/hhk1364/blob/output/github-contribution-grid-snake.svg)
