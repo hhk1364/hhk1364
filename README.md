@@ -9,7 +9,7 @@
 
 
 
-## 한현경[@hhk1364](https://github.com/hhk1364)
+## 한현경 [@hhk1364](https://github.com/hhk1364)
 - BE developer
 - (personal) Machine Learning Engineer
 ## Work Experiences
