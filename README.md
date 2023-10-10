@@ -19,9 +19,3 @@
 - 낚시성 뉴스 탐지 서비스, 구름자연어처리전문가양성과정, 2023
 - 오늘의 로또, 개인프로젝트, 2023
 - 카카오페이 API 결제를 이용한 무인 매장 시스템, 캡스톤디자인, 2018 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhk1364/hhk1364/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhk1364/hhk1364/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
